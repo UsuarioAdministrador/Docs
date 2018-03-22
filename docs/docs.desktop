@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment[pt_BR]=Abridor de Documentos do Google
+Comment=Abridor de Documentos do Google
+Exec=/opt/docs/docs.sh
+GenericName[pt_BR]=Abridor de Docs
+GenericName=Abridor de Docs
+Icon=/opt/docs/icon.png
+Name[pt_BR]=Docs
+Name=Docs
+Path=/opt/docs
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Unknown;
